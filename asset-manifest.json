@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/traffic-light/static/css/main.f29ae65a.chunk.css",
-    "main.js": "/traffic-light/static/js/main.45efc9a9.chunk.js",
-    "main.js.map": "/traffic-light/static/js/main.45efc9a9.chunk.js.map",
+    "main.js": "/traffic-light/static/js/main.b5f7f853.chunk.js",
+    "main.js.map": "/traffic-light/static/js/main.b5f7f853.chunk.js.map",
     "runtime-main.js": "/traffic-light/static/js/runtime-main.7de321e0.js",
     "runtime-main.js.map": "/traffic-light/static/js/runtime-main.7de321e0.js.map",
     "static/js/2.9ce1ab4f.chunk.js": "/traffic-light/static/js/2.9ce1ab4f.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.7de321e0.js",
     "static/js/2.9ce1ab4f.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.45efc9a9.chunk.js"
+    "static/js/main.b5f7f853.chunk.js"
   ]
 }
