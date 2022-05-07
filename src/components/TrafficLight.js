@@ -12,7 +12,6 @@ const StyleDiv = styled.div`
 `;
 
 const Light = ({ value, name, color }) => {
-  console.log("I called--", name);
   return (
     <StyleDiv isOn={value} color={color} name={name} id={value}></StyleDiv>
   );

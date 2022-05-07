@@ -36,7 +36,7 @@ export default function App() {
         style={{ marginBottom: "10px" }}
         onClick={() => setCurrentLight()}
       >
-        Change Light Using Button
+        Change Light
       </button>
       {state.map((l) => {
         return <TrafficLight name={l.name} value={l.power} color={l.color} />;
