@@ -1,4 +1,5 @@
 {
+  "homepage": "https://maheshnd.github.io/traffic-light",
   "name": "traffic-light",
   "version": "1.0.0",
   "description": "",
@@ -15,6 +16,8 @@
     "@babel/runtime": "7.13.8"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
